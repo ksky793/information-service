@@ -1,7 +1,6 @@
 # information-service
 Wstępne wykonanie projektu aplikacji służącej do przechowywania informacji ( notatki, wydarzenia, przepisy etc. ) w Adobe XD
 <br> 
-Projekt wykonany na przedmiot: Programowanie aplikacji www w technologii Java(semestr 6)
 
 Panel Admina
 ![image](https://user-images.githubusercontent.com/64898781/168496990-b8cf31b8-7205-4df0-8aad-5062078a8578.png)
